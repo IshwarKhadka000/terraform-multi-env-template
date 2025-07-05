@@ -16,7 +16,7 @@ A simple and clean Terraform starter template for managing infrastructure across
 
 ```
 terraform-multienvs/
-├── Makefile                    # Main build automation
+├── Makefile                   # Main build automation
 ├── backend.hcl.tpl            # Backend configuration template
 ├── variables.tfvars.tpl       # Variables template
 ├── s3.tf                      # S3 bucket configuration (example)
